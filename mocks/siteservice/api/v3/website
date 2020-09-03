@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "devreuterscom",
+    "display_name": "Dev.Reuters.com",
+    "is_default_website": false
+  },{
+    "_id": "qareuterscom",
+    "display_name": "QA.Reuters.com",
+    "is_default_website": false
+  },{
+    "_id": "reuterscom",
+    "display_name": "Reuters.com",
+    "is_default_website": true
+  },{
+    "_id": "thealextimes",
+    "display_name": "TheAlexTimes",
+    "is_default_website": false
+  },{
+    "_id": "tr-demo-site",
+    "display_name": "TR Demo Site",
+    "is_default_website": false
+  }
+]
